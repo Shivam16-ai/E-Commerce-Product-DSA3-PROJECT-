@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Product Entity Resolution & Matching Platform",
+  "description": "Enterprise-grade entity resolution, deduplication, and cross-seller matching engine for e-commerce product catalogs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
